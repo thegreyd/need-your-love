@@ -35,3 +35,8 @@ def main():
 	else:
 		print("No number at this index")
 main()
+
+def arug():
+	print(s) for s in range(1,10)
+arug()	
+
